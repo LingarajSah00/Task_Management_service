@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: user_management_application
+Implementation-Version: 0.2.0
+Built-By: SONY
+Implementation-Vendor-Id: com.firstgenix
+Build-Jdk: 1.8.0_141
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/user_management_application
+Created-By: Maven Integration for Eclipse
+
